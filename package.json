@@ -1,0 +1,25 @@
+{
+  "name": "scoreboard",
+  "version": "1.0.0",
+  "description": "AngularJS-MaterializeCSS-HTML5 Boilterplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19jake68/AngularJS-MaterializeCSS-HTML5-Boilterplate.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Boilerplate",
+    "HTML5",
+    "MaterializeCSS"
+  ],
+  "author": "Jake Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19jake68/AngularJS-MaterializeCSS-HTML5-Boilterplate/issues"
+  },
+  "homepage": "https://github.com/19jake68/AngularJS-MaterializeCSS-HTML5-Boilterplate#readme"
+}
